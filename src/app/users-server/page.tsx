@@ -1,7 +1,7 @@
 type User = {
 	id: string;
 	name: string;
-	ysername: string;
+	username: string;
 	email: string;
 	phone: string;
 };
